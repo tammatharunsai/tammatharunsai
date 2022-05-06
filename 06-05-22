@@ -1,7 +1,0 @@
-e={1:[123,'hari','manager',30000,'bvrm'],2:[124,'sai','clerk',15000,'kkd'],3:[125,'santosh','ads manager',20000,'rjy']}
-x=int(input('enter the employee number:'))
-print('employee no:',e[x][0])
-print('employee name:',e[x][1])
-print('employee designation:',e[x][2])
-print('employee salary:',e[x][3])
-print('employee city:',e[x][4])
